@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hakim Adam</h1>
-<h5 align="center">🎓 Senior Computer Science student @ Rutgers University – New Brunswick 💻 Aspiring Software Engineer | Cloud & AI Enthusiast ⚡ Passionate about solving problems through code, building scalable cloud systems, and creating automation tools.</h5>
-
 -----
 ![image](https://github.com/Kinghakim1/Kinghakim1/blob/main/IMG_3362_page_1.JPEG?raw=true)
 -----
 
+<h1 align="center">Hi 👋, I'm Hakim Adam</h3>
 
 
-
+<h5 align="left">🎓 Senior Computer Science student @ Rutgers University – New Brunswick 💻 Aspiring Software Engineer | Cloud & AI Enthusiast ⚡ Passionate about solving problems through code, building scalable cloud systems, and creating automation tools.</h5>
 
 
 - 🔭 I’m currently working on **Cloud Engineering Labs**
