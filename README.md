@@ -1,5 +1,5 @@
 -----
-![image](https://github.com/Kinghakim1/Kinghakim1/blob/main/IMG_3362_page_1.JPEG?raw=true)
+![image]
 -----
 
 <h1 align="center">Hi 👋, I'm Hakim Adam</h3>
